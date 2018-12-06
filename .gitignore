@@ -102,3 +102,6 @@ venv.bak/
 
 # mypy
 .mypy_cache/
+
+HW1/wiki_data
+HW1/tool_data/chromedriver.exe
